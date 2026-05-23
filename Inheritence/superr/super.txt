@@ -1,0 +1,7 @@
+super is a keyword used in OOPs refers to parent class it is mainly used inside a child class to acces the access the member of parent class
+
+threee ways to use super keyword
+
+1>. To invoke Parent class Variable
+2>. To invoke Parent class methods
+3>. To invoke Parent class Constructor
