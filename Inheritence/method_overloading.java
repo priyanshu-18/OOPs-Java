@@ -8,7 +8,7 @@ class method_overloading {
         return a+b;
     }
     static int sum(int a,int b,int c){
-        return a+b;
+        return a+b+c;
     }
     static String sum(String a,String b){
         return a+b;
