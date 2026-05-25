@@ -20,7 +20,9 @@ public class method_overriding {
     
     public static void main(String[] args) {
 
-        
+        BANK obj = new BANK();
+        SBI obj1 = new SBI();
+        PNB obj = new PNB();
 
 
     }
