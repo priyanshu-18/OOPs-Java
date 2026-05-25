@@ -20,7 +20,8 @@ public class abstractt {
 
     public static void main(String[] args) {
         
-        
+        mahindra xuv300 = new mahindra();
+        xuv300.fuelType();
 
 
     }
