@@ -2,9 +2,9 @@ package Encapsulation;
 
 class Students{
 
-    int name;
-    int roll_no;
-    int age;
+    private int name;
+    private int roll_no;
+    private int age;
 
 }
 
