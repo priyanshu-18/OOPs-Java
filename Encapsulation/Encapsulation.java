@@ -20,6 +20,12 @@ class Students{
         return age;
     }
 
+    //set
+
+    public void setName(String name){
+        
+    }
+
 
 }
 
