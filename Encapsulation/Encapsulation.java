@@ -9,7 +9,7 @@ class Students{
     private int age;
 
     //get
-    
+
     public String getName(){
         return name;
     }
@@ -42,4 +42,7 @@ class Students{
 
 public class Encapsulation {
     
+    public static void main(String[] args) {
+        
+    }
 }
