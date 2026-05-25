@@ -12,7 +12,7 @@ class SBI extends BANK{
 }
 class PNB extends BANK{
     void RateOfInterest(){
-        System.out.println("Rate of Interest of PNB is 7%");
+        System.out.println("Rate of Interest of PNB is 15%");
     }
 }
 
