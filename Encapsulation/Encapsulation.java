@@ -26,6 +26,8 @@ class Students{
         this.name = name;
     }
 
+    public void setAge(int roll_no)
+
 
 }
 
