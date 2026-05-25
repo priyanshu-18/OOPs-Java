@@ -26,7 +26,9 @@ class Students{
         this.name = name;
     }
 
-    public void setAge(int roll_no)
+    public void setAge(int roll_no){
+        this.roll_no=roll_no;
+    }
 
 
 }
