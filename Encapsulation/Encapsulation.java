@@ -30,7 +30,7 @@ class Students{
         this.roll_no=roll_no;
     }
 
-    public void setAge(){
+    public void setAge(int age){
         this.age=age;
     }
 
