@@ -2,7 +2,7 @@ package Inheritence;
 
 class BANK {
     void RateOfInterest(){
-        System.out.println("the ");
+        System.out.println("Rate of Interest of bank is ");
     }
 }
 
