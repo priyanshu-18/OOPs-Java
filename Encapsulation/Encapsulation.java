@@ -23,7 +23,7 @@ class Students{
     //set
 
     public void setName(String name){
-        
+        this.name = name;
     }
 
 
