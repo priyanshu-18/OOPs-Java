@@ -9,6 +9,13 @@ abstract class car{
 }
 
 
-public class abstractt {
+public class abstractt {    
+
+
+    public static void main(String[] args) {
+        
+        
+
+    }
     
 }
