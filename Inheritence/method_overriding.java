@@ -25,6 +25,8 @@ public class method_overriding {
         PNB obj2 = new PNB();
 
         obj.RateOfInterest();
+        obj1.RateOfInterest();
+        obj2.RateOfInterest();
 
 
     }
