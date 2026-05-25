@@ -31,7 +31,7 @@ class Students{
     }
 
     public void setAge(){
-        this.setAge();
+        this.age=age;
     }
 
 
