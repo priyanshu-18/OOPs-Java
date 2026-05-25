@@ -2,13 +2,15 @@ package Encapsulation;
 
 class Students{
 
-    private int name;
+    private String name;
   
     private int roll_no;
 
     private int age;
 
-    
+    public String getName(){
+        return name;
+    }
 
 }
 
