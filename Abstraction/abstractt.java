@@ -8,13 +8,19 @@ abstract class car{
     }
 }
 
+class mahindra extends car{
+   public  void fuelType(){
+        System.out.println("disel");
+    }
+}
+
 
 public class abstractt {    
 
 
     public static void main(String[] args) {
         
-        
+
 
     }
     
