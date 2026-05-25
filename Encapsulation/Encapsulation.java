@@ -12,6 +12,11 @@ class Students{
         return name;
     }
 
+    public int getRoll_no(){
+        return roll_no;
+    }
+
+
 }
 
 
