@@ -47,7 +47,7 @@ public class Encapsulation {
         obj.setName("Priyanshu");
         obj.setAge(19);
         obj.setRoll_no(18);
-        obj.getName();
+        System.out.println(obj.getName();
         obj.getAge();
         obj.getRoll_no();
     }
