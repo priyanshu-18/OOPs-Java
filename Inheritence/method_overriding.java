@@ -5,12 +5,12 @@ class BANK {
         System.out.println("Rate of Interest of bank is 7%");
     }
 }
-class SBI {
+class SBI extends {
     void RateOfInterest(){
         System.out.println("Rate of Interest of SBI is 10%");
     }
 }
-class PNB {
+class PNB extends {
     void RateOfInterest(){
         System.out.println("Rate of Interest of PNB is 7%");
     }
