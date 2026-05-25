@@ -22,7 +22,9 @@ public class method_overriding {
 
         BANK obj = new BANK();
         SBI obj1 = new SBI();
-        PNB obj = new PNB();
+        PNB obj2 = new PNB();
+
+        obj.RateOfInterest();
 
 
     }
