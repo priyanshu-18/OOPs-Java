@@ -16,6 +16,10 @@ class Students{
         return roll_no;
     }
 
+    public int getAge(){
+        return 
+    }
+
 
 }
 
