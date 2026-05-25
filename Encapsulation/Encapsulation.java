@@ -44,7 +44,7 @@ public class Encapsulation {
     
     public static void main(String[] args) {
         Students obj = new Students();
-
+        obj.setName(null);
         obj.getName();
     }
 }
