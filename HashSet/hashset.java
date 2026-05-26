@@ -9,7 +9,10 @@ public class hashset {
         //creating 
         HashSet<Integer> set = new HashSet();
 
-        //Inset
+        //Insert
+        set.add(1);
+        set.add(1);
+        set.add(1);
 
     }
 }
