@@ -52,11 +52,13 @@ public class hashmap {
        //  |
        // -----> 1> 
 
-            for(Map.Entry<String,Integer> e : map.entrySet()){
-                System.out.println(e.getKey());
-                System.out.println(e.getValue());
+            // for(Map.Entry<String,Integer> e : map.entrySet()){
+            //     System.out.println(e.getKey());
+            //     System.out.println(e.getValue());
 
-            }
+            // }
+
+            
 
     }
 
