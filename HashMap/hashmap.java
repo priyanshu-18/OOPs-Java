@@ -15,7 +15,7 @@ public class hashmap {
 
         map.put("INDIA",120);
         map.put("US",30);
-        map.put("China",90);
+        map.put("CHINA",90);
 
     }
 
