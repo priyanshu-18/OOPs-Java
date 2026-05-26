@@ -20,7 +20,7 @@ public class hashmap {
 
         System.out.println(map);
 
-        // if we cahnge the 
+        // if we cahnge the value of INDIA to 130 if INDIA Exist in the hashMap 
 
     }
 
