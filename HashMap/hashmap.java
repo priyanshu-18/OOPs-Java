@@ -11,8 +11,10 @@ public class hashmap {
         HashMap<String,Integer> map = new HashMap();
 
         //Insertion 
+        // For insetion we used put method 
 
         
+
     }
 
 }
