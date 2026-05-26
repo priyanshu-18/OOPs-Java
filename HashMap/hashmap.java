@@ -31,7 +31,7 @@ public class hashmap {
        // |
        // |
        // -----> 1> .containsKey() (if key present return true if not return false);
-       // -----> 2> .get() (gave the value of key if key present return the value of key )
+       // -----> 2> .get() (gave the value of key if key present return the value of key ... If not then it return )
 
         
 
