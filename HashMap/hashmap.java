@@ -58,7 +58,11 @@ public class hashmap {
 
             // }
 
-            Set<String> key = map.k
+            Set<String> key = map.keySet();
+
+            for(String keys : key){
+
+            }
 
     }
 
