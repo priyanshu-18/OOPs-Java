@@ -42,8 +42,10 @@ public class hashmap {
 
 
 
-        // 
+        // .get
 
+        System.out.println(map.get("CHINA"));
+        System.out.println(map.get("Indonesia"));
     }
 
 }
