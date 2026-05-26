@@ -15,5 +15,7 @@ public class hashset {
         set.add(3);
         set.add(1);
 
+        System.out.println(set);
+
     }
 }
