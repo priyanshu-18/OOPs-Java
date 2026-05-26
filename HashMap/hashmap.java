@@ -36,6 +36,8 @@ public class hashmap {
        //containskey
         if(map.containsKey("CHINA")){
             System.out.println("True");
+        }else{
+            System.out.println("false");
         }
 
     }
