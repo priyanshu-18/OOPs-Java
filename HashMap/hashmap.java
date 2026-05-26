@@ -30,7 +30,7 @@ public class hashmap {
        // |
        // |
        // |
-       // -----> 1> .containsKey (if )
+       // -----> 1> .containsKey (if key present return )
        // -----> 2> .get
 
         
