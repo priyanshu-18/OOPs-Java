@@ -58,11 +58,11 @@ public class hashmap {
 
             // }
 
-            Set<String> key = map.keySet();
+            // Set<String> key = map.keySet();
 
-            for(String keys : key){
-                System.out.println(keys+" "+map.get(keys));
-            }
+            // for(String keys : key){
+            //     System.out.println(keys+" "+map.get(keys));
+            // }
 
     }
 
