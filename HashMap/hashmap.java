@@ -10,6 +10,8 @@ public class hashmap {
 
         HashMap<String,Integer> map = new HashMap();
 
+        //Insertion 
+
         
     }
 
