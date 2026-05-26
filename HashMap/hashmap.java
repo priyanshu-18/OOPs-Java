@@ -24,7 +24,7 @@ public class hashmap {
         
         // map.put("INDIA",130);
 
-        System.out.println(map);
+        // System.out.println(map);
 
 
 
