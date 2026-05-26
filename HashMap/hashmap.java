@@ -48,7 +48,10 @@ public class hashmap {
         // System.out.println(map.get("Indonesia"));
 
         //Iteration
-        
+        // |
+       //  |
+       // -----> 1>
+
     }
 
 }
