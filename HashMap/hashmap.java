@@ -14,6 +14,8 @@ public class hashmap {
         // For insetion we used put method 
 
         map.put("India",120);
+        map.put("India",120);
+        map.put("India",120);
 
     }
 
