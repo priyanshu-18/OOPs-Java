@@ -22,6 +22,7 @@ public class hashmap {
 
         // if we cahnge the value of INDIA to 130 if INDIA Exist in the hashMap it updatae the value but if it,s not it made the key , value pair in the HASHMAP
 
+        map.put("INDIA",130);
         
 
     }
