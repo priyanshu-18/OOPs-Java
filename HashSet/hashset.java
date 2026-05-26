@@ -8,7 +8,8 @@ public class hashset {
         
         //creating 
         HashSet<Integer> set = new HashSet();
-        
+
+        //Inset
 
     }
 }
