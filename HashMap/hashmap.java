@@ -33,8 +33,10 @@ public class hashmap {
        // -----> 2> .get() (gave the value of key if key present return the value of key ... If not then it return Null value);
 
         
-       //conatainskey
-
+       //containskey
+        if(map.containsKey("CHINA")){
+            System.out.println();
+        }
 
     }
 
