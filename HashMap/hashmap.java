@@ -61,7 +61,7 @@ public class hashmap {
             Set<String> key = map.keySet();
 
             for(String keys : key){
-
+                System.out.println();
             }
 
     }
