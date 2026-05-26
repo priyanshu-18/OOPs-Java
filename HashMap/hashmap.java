@@ -17,6 +17,9 @@ public class hashmap {
         map.put("US",30);
         map.put("CHINA",90);
 
+
+        System.out.println(map);
+
     }
 
 }
