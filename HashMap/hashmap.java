@@ -13,7 +13,7 @@ public class hashmap {
         //Insertion 
         // For insetion we used put method 
 
-        
+        map.put("India",120);
 
     }
 
